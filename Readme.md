@@ -29,4 +29,7 @@ Pedidos de compra e venda,
 Usuários;
 
 # Layout
-![alt text](https://github.com/EfraimFelix/DistribuidoraDeBebidas/blob/master/imagens/Sejabemvindo.png)
+
+*Todas as Paginas seguem o mesmo padrão
+
+![alt text](https://github.com/EfraimFelix/DistribuidoraDeBebidas/blob/master/imagens/Cliente.png)
