@@ -30,6 +30,8 @@ Usuários;
 
 # Layout
 
+![alt text](https://github.com/EfraimFelix/DistribuidoraDeBebidas/blob/master/imagens/Cliente.png)
+
 *Todas as Paginas seguem o mesmo padrão
 
 ![alt text](https://github.com/EfraimFelix/DistribuidoraDeBebidas/blob/master/imagens/Cliente.png)
