@@ -1,5 +1,5 @@
-# Aplicação para uma empresa real, cobrindo suas necessidades
-Aplicativo de gerenciamento comercial para uma distribuidora de água
+# Aplicação para uma empresa real
+Aplicativo de gerenciamento comercial para uma distribuidora de bebidas
 
 # Funcionalidades
 *Login
