@@ -33,3 +33,10 @@ Usuários;
 *Todas as Paginas seguem o mesmo padrão
 
 ![alt text](https://github.com/EfraimFelix/DistribuidoraDeBebidas/blob/master/imagens/Cliente.png)
+
+
+# Instalação
+Utilize o arquivo SQL.sql para criar o banco de dados, e logo depois modifique a conexão com db, basta entrar no arquivo \src\tccc/conexao.java
+
+Login:admin
+Senha:12345
